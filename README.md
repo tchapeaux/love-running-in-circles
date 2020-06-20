@@ -7,4 +7,7 @@ A game made with LÖVE for the Experimental Gameplay Project of September 2010, 
 Run it with the latest version of [LÖVE](https://www.love2d.org).
 
 Music : "Intro" by DJ Fire-Black http://www.jamendo.com/fr/album/72849
+
 Sound FXs made by myself
+
+![Screenshot](./res/screenshot.png)
